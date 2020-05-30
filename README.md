@@ -1,5 +1,12 @@
-# CloudComputing
-Apache as httpd,MySQL as madiaDB and phpMyAdmin automatic installer script for Amazon Linux 2 EC2 AWS Service
+# CloudComputing software installer
+
+1)Apache as httpd,
+
+2)MySQL as madiaDB 
+
+3) phpMyAdmin automatic installer script for Amazon Linux 2 EC2 AWS Service
+
+
 Just make sure that you have Amazon Linux2 Instance installed with SSH, HTTP and HTTPS enabled.
 
 
